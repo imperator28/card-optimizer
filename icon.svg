@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Background: Indigo-600 -->
+  <rect width="512" height="512" rx="115" fill="#4f46e5"/>
+  
+  <!-- Shadow Card -->
+  <rect x="96" y="120" width="320" height="200" rx="24" fill="#312e81" opacity="0.2"/>
+  
+  <!-- Main Card Body: White -->
+  <rect x="80" y="160" width="352" height="224" rx="24" fill="#ffffff"/>
+  
+  <!-- Card Stripe -->
+  <rect x="80" y="210" width="352" height="48" fill="#e0e7ff"/>
+  
+  <!-- Checkmark Circle -->
+  <circle cx="350" cy="320" r="32" fill="#4f46e5"/>
+  
+  <!-- Checkmark -->
+  <path d="M334 320 l10 10 l22 -22" stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  
+  <!-- Lines (Text simulation) -->
+  <rect x="120" y="305" width="120" height="12" rx="6" fill="#cbd5e1"/>
+  <rect x="120" y="335" width="80" height="12" rx="6" fill="#cbd5e1"/>
+</svg>
